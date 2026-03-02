@@ -63,15 +63,7 @@ message = ""
 radio.set_group(67)
 servos.P0.set_angle(90)
 
-"""
-direction_map = {
-    "L": servo_left,
-    "R": servo_right,
-    "F": motor_forward,
-    "B": motor_backward
-}
-"""
-#was going to add "lookup table" functionality instead of if else test in the main loop but couldnt get it to work so focused rather on the self balancing
+
 
 def on_forever():
     global message
