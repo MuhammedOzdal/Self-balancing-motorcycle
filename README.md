@@ -28,6 +28,6 @@ Through this project I gained practical experience with embedded systems, sensor
 
 ## Author
 
-**Muhammed Ozdal** **Salim Zakaria Ahmed**
+**Muhammed Ozdal** **&** **Salim Zakaria Ahmed**
 
 [GitHub](https://github.com/MuhammedOzdal)
